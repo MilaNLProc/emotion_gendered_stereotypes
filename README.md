@@ -22,10 +22,10 @@ Citation
     @inproceedings{plaza-del-arco-etal-2024-angry,
     title = "Angry Men, Sad Women: Large Language Models Reflect Gendered Stereotypes in Emotion Attribution",
     author = "{Plaza-del-Arco}, Flor Miriam  and
-      Curry, Amanda  and
-      Cercas Curry, Alba  and
-      Abercrombie, Gavin  and
-      Hovy, Dirk",
+    Curry, Amanda  and
+    Cercas Curry, Alba  and
+    Abercrombie, Gavin  and
+    Hovy, Dirk",
     booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
     month = aug,
     year = "2024",
@@ -33,4 +33,5 @@ Citation
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2024.acl-long.415",
     doi = "10.18653/v1/2024.acl-long.415",
-    pages = "7682--7696"}
+    pages = "7682--7696"
+    }
